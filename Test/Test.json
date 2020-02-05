@@ -1,0 +1,6 @@
+{
+  "Classes": [{"Test_name": "TestCards"},
+              {"Test_name" : "TestPlayer"}
+              {"Test_name" : "TestDice"},
+              {"Test_name" : "TestDeck"}]
+}
