@@ -10,6 +10,7 @@ Lay eggs using egg miniatures in a variety of colors
 Draw from hundreds of unique bird cards and play them
 The winner is the player with the most points after 4 rounds.
 &nbsp;
-The Wingspan rulebooks are available here: (https://app.box.com/s/xtwzcdxld63v57tkfbxwoacfwhfqpyu0)
+The Wingspan rulebooks are available here:  (https://app.box.com/s/xtwzcdxld63v57tkfbxwoacfwhfqpyu0)
+&nbsp;
 &nbsp;
 ![WingSpan](images/wingspan_2.png)
