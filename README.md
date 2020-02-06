@@ -1,4 +1,4 @@
 ### WingSpanGame
-![WingSpan](images/wingspan_1.png){: width=150 height=100 style="float:right; padding:16px"}
+![WingSpan](images/wingspan_1.png)
 &nbsp;
 ![WingSpan](images/wingspan_2.png)
